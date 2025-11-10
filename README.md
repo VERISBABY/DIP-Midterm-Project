@@ -8,7 +8,7 @@ Given an input video (attached in the assignment): Draw rectangles surrounding e
 ![](https://github.com/VERISBABY/DIP-Midterm-Project/blob/79a30cf2797af383e183ffaac517750e842f3ee3/di2.png)
 ![](https://github.com/VERISBABY/DIP-Midterm-Project/blob/79a30cf2797af383e183ffaac517750e842f3ee3/di3.png)
 
-**Output video**: ![https://youtu.be/3FT55SsTC8E]
+**Output video**: https://youtu.be/3FT55SsTC8E
 
 > Overall, the code solution can detected all major observable traffic signs of the given video. 
 > However, there are still some objects not even being a traffic sign have been catched such as billborad,etc.
